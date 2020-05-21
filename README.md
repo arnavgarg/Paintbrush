@@ -1,5 +1,5 @@
 # Paintbrush
-**Dependencies:** `TensorFlow 2` `numpy` `matplotlib` `scikit-image` `imageio` 
+**Dependencies:** `TensorFlow 2` `Numpy` `Matplotlib` `Scikit-Image` `ImageIO` `Pillow` 
 
 A neural style transfer program that allows you to transform your photos to look like they were created by your favorite artist. See examples folder for sample artwork. 
 
